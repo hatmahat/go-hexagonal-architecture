@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Claude Code local settings (keep CLAUDE.md, ignore personal overrides)
+.claude/settings.local.json
+CLAUDE.local.md
+
+# Local scratch
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
